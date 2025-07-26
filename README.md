@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on projects related to Data Science applications
 - 📫 How to reach me
   [LinkedIn](https://www.linkedin.com/in/neehanthreddy/)
-  [neehanthreddym@gmail.com](mailto:neehanthreddym@gmail.com)
+  Gmail: neehanthreddym@gmail.com
