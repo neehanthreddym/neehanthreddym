@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **neehanthreddy8@gmail.com**
 
-- Resume [https://drive.google.com/file/d/1eSS2k8SFUWeoP_ESWqgD95gpPPcw_pDl/view?usp=drive_link](https://drive.google.com/file/d/1eSS2k8SFUWeoP_ESWqgD95gpPPcw_pDl/view?usp=drive_link)
+- Resume [neehanth_ai_ml](https://drive.google.com/drive/folders/1WB_dBEJ1D8pVw6jA0mEX3vQchJYgO1ZC?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
