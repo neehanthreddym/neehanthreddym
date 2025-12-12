@@ -2,7 +2,10 @@
 
 ### Python Developer (AI/ML)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neehanthreddym&label=Profile views&color=0e75b6&style=flat" alt="neehanthreddym" /> </p>
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neehanthreddym&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
+</p> -->
+![Profile views](https://komarev.com/ghpvc/?username=neehanthreddym&label=Profile+views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **End-to-End ML pipeline workflow**
 
