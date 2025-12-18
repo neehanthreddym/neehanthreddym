@@ -79,6 +79,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> 
+  </a>
 
   <!-- Backend utilities -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
@@ -86,6 +89,12 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/githubactions" alt="github actions" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
