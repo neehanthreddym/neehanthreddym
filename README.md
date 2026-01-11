@@ -7,11 +7,11 @@
 </p> -->
 ![Profile views](https://komarev.com/ghpvc/?username=neehanthreddym&label=Profile+views&color=0e75b6&style=flat)
 
-- 🔭 I'm currently working on **End-to-End ML pipeline workflow**
+- 🔭 I'm currently working on **AI Agents**
 
-- 🌱 I'm currently learning **how to productionize ML end to end, FastAPI patterns for ML services, and better LLM RAG evaluation and monitoring.**
+- 🌱 I'm currently learning **how to develop AI Agents, FastAPI patterns for Agent services, and better evaluation and monitoring.**
 
-- 👯 I'm looking to collaborate on **beginner-friendly ML + FastAPI projects: RAG chatbots, model APIs, and practical end-to-end ML apps (learning fast, shipping small features).**
+- 👯 I'm looking to collaborate on **Production grade AI/ML + FastAPI projects: RAG chatbots, model APIs, and practical end-to-end AI/ML apps (learning fast, shipping small features).**
 
 - 📫 How to reach me **neehanthreddy8@gmail.com**
 
