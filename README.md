@@ -1,6 +1,6 @@
 # Hi 👋, I'm Neehanth Reddy M
 
-### Python Developer (AI/ML) | SDE | Data Scientist
+### AI/ML Enthusiast
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=neehanthreddym&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
