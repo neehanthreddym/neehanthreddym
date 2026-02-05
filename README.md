@@ -8,7 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=neehanthreddym&label=Profile+views&color=0e75b6&style=flat)
 
 # 💫 About Me:
-<strong>Python Developer (AI/ML) | SDE | Data Scientist</strong><br><br>🔭 I'm currently working on AI Agents<br>🌱 I'm currently learning how to develop AI Agents, FastAPI patterns for Agent services, and better evaluation and monitoring.<br>👯 I'm looking to collaborate on Production grade AI/ML + FastAPI projects: RAG chatbots, model APIs, and practical end-to-end AI/ML apps (learning fast, shipping small features).<br>⚡ Fun fact I can’t start work until my coffee is exactly the right temperature, I’ve basically become a human thermostat.
+🔭 I'm currently working on AI Agents<br>🌱 I'm currently learning how to develop AI Agents, FastAPI patterns for Agent services, and better evaluation and monitoring.<br>👯 I'm looking to collaborate on Production grade AI/ML + FastAPI projects: RAG chatbots, model APIs, and practical end-to-end AI/ML apps (learning fast, shipping small features).<br>⚡ Fun fact I can’t start work until my coffee is exactly the right temperature, I’ve basically become a human thermostat.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neehanth_reddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neehanthreddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neehanthreddym@gmail.com) 
