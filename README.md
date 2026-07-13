@@ -1,6 +1,6 @@
 # Hi 👋, I'm Neehanth Reddy M
 
-### AI/ML Enthusiast
+### AI/ML Engineer | Data Analytics | Data Science
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=neehanthreddym&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
