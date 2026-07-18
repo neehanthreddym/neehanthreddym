@@ -1,27 +1,157 @@
-# Hi 👋, I'm Neehanth Reddy M
-
-### AI/ML Engineer | Data Analytics | Data Science
-
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=neehanthreddym&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
 </p> -->
 ![Profile views](https://komarev.com/ghpvc/?username=neehanthreddym&label=Profile+views&color=0e75b6&style=flat)
 
-# 💫 About Me:
-🔭 I'm currently working on Agentic Workflows<br>🌱 I'm currently learning how to automate the workflows using AI, FastAPI patterns for Agent services, and better evaluation and monitoring.<br>👯 I'm looking to collaborate on Production grade AI/ML + FastAPI projects: RAG chatbots, model APIs, and practical end-to-end AI/ML apps (learning fast, shipping small features).<br>⚡ Fun fact I can’t start work until my coffee is exactly the right temperature, I’ve basically become a human thermostat.
+# Hi 👋, I'm Neehanth Reddy
+### AI/ML | Data Analytics | Data Science
+### Turning raw data into predictive models, decision-ready dashboards, and deployable AI systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neehanthreddy) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxMmMyLjcgMCA0LjgtMi4xIDQuOC00LjhTMTQuNyAyLjQgMTIgMi40IDcuMiA0LjUgNy4yIDcuMiA5LjMgMTIgMTIgMTJ6bTAgMi40Yy0zLjIgMC05LjYgMS42LTkuNiA0Ljh2Mi40aDE5LjJ2LTIuNGMwLTMuMi02LjQtNC44LTkuNi00Ljh6Ii8+PC9zdmc+&logoColor=white)](https://neehanth.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neehanth_reddy)
+I build analytical and AI systems from initial data preparation through evaluation and delivery. My public work includes customer segmentation and forecasting pipelines, churn models and Power BI dashboards, document-grounded RAG, structured LLM workflows, and FastAPI services backed by relational and document databases.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neehanthreddym&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neehanthreddym&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neehanthreddym&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <a href="https://neehanth.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-868629?style=flat-square" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/neehanthreddy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/NeehanthReddyM">
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
+
+## Selected work
+
+### [SmartSupply — Inventory API and Natural-Language Agent](https://github.com/neehanthreddym/smartsupply)
+
+A FastAPI inventory system that separates transactional operations in PostgreSQL from audit and conversation history in MongoDB.
+
+- Seeded and managed 22 products, 4 warehouses, 88 inventory records, and 320 movement records.
+- Implemented JWT authentication, request tracing, FIFO stock movement, low-stock detection, and immutable audit logs.
+- Exposed 12 permission-aware agent tools for querying and modifying inventory through natural language.
+- Tested more than 20 agent queries and documented matching, error-handling, and response-formatting limitations.
+
+<!-- `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `SQLAlchemy` · `LangChain` · `JWT` -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</p>
+
+### [Agentic Resume Screening Workflow](https://github.com/neehanthreddym/agentic-resume-screener)
+
+A LangGraph workflow for extracting resume and job requirements, analyzing skill gaps, and returning structured candidate–job fit evidence.
+
+- Parallelized resume and job-description extraction with asynchronous LangGraph nodes.
+- Reduced end-to-end Gemini pipeline latency by approximately 30–40%, bringing tested runs below 40 seconds.
+- Added typed Pydantic outputs and documented failure modes involving coursework inflation, domain pollution, and invalid transferable-skill mappings.
+
+<!-- `Python` · `LangGraph` · `Pydantic` · `Structured LLM Output` · `Document Parsing` -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/PyMuPDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PyMuPDF">
+</p>
+
+### [DocQuery — Research Paper RAG](https://github.com/neehanthreddym/doc_query_rag)
+
+A document-grounded question-answering application for AI and machine-learning research papers.
+
+- Built PDF ingestion, chunking, 384-dimensional MiniLM embeddings, and ChromaDB HNSW retrieval.
+- Connected retrieved context to `gpt-oss-20b` through Groq and exposed the workflow through FastAPI.
+- Containerized the application with Docker and documented delivery through GitHub Actions, AWS ECR, and EC2.
+- Added a benchmarking harness for comparing ANN implementations by build time, memory, query speed, and Recall@K.
+
+<!-- `Python` · `FastAPI` · `ChromaDB` · `Sentence Transformers` · `Docker` · `AWS` -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=flat-square&logoColor=white" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Sentence Transformers">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+### [E-Commerce Analytics Pipeline](https://github.com/neehanthreddym/ecommerce_analytics_pipeline)
+
+An analytical pipeline for customer behavior, product relationships, and revenue forecasting.
+
+- Cleaned 541,909 retail records to 398,139 validated transactions by removing cancellations, missing customer identifiers, invalid prices, and administrative entries.
+- Identified four customer segments using RFM features, K-means clustering, and silhouette-based model selection.
+- Generated association rules for product bundling and inventory-planning opportunities.
+- Selected a SARIMA specification with test RMSE of approximately 25,108, compared with approximately 28,060 for the initial specification.
+
+<!-- `Python` · `pandas` · `scikit-learn` · `RFM Analysis` · `Association Rules` · `SARIMA` · `Prophet` -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/SARIMA-4051B5?style=flat-square" alt="SARIMA">
+  <img src="https://img.shields.io/badge/Prophet library-Facebook-0072B2?style=flat-square" alt="Prophet">
+</p>
+
+### Telecom Churn — Analysis and Prediction
+
+Two complementary projects examining the same business problem from reporting and predictive-modeling perspectives.
+
+- [Customer Churn Analysis Dashboard](https://github.com/neehanthreddym/customer-churn-anlaysis): analyzed 7,043 customers in Power BI, measuring a 27% churn rate and approximately $139.13K in monthly revenue exposure.
+- [Telecom Churn Prediction](https://github.com/neehanthreddym/telecom-churn-model): trained a Keras ANN that reached 91.22% validation accuracy and 0.81 F1 for the churn class.
+- Examined contract type, tenure, payment method, service bundles, billing, and support activity as retention indicators.
+
+<!-- `Power BI` · `Python` · `pandas` · `TensorFlow` · `Keras` · `scikit-learn` -->
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+</p>
+
+## Technical strengths
+
+| Area | Technologies |
+|---|---|
+| Data and analytics | Python, SQL, pandas, NumPy, scikit-learn, Power BI, PySpark |
+| Modeling and signal processing | TensorFlow, Keras, statsmodels, MNE, SciPy |
+| Applied AI | LangGraph, LangChain, ChromaDB, sentence-transformers |
+| APIs and data stores | FastAPI, PostgreSQL, MongoDB, SQLAlchemy |
+| Delivery and reproducibility | Docker, DVC, GitHub Actions, AWS ECR, EC2, S3, CloudWatch |
+
+## Engineering approach
+
+Across these projects, I focus on:
+
+- validating and documenting data-quality decisions before modeling;
+- selecting evaluation methods that match the problem, including class-specific metrics, time-based testing, and leakage-aware validation;
+- packaging models and analytical workflows so they can be reproduced or used through an application;
+- documenting limitations, failure modes, and operational trade-offs alongside successful results.
+
+## Connect
+<p align="left">
+  <a href="https://neehanth.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-868629?style=flat-square" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/neehanthreddy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/NeehanthReddyM">
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=neehanthreddym&icon=0&color=0)](https://visitcount.itsvg.in)
